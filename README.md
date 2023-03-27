@@ -6,6 +6,7 @@ This project contains code that walks through how to create six different tables
 Visuals 
 Below is a visual of the entity relationship diagram. 
 
+![image](https://user-images.githubusercontent.com/117327499/227840966-ab26f91a-bad5-481b-927f-e9d28ba78958.png)
 
  
 Installation
